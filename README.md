@@ -1,7 +1,7 @@
-<h1 align="center"> Hi there👋 My name is La'Kaleigh  </h1>
+<h1 align="center"> Hi there👋 My name is Sofia Esparza-Chavez </h1>
 
 ### How to reach me 📢
-<a href="https://www.linkedin.com/in/sofia-esparza-chavez/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sofía-esparza-chávez/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## My Tech Stack 🥞
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
